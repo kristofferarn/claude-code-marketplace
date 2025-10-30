@@ -1,0 +1,14 @@
+{
+    "name": "krisarn-claude-code-marketplace",
+    "version": "1.0.0",
+    "owner": {
+        "name": "Kristoffer Arntzen"
+    },
+    "plugins": [
+        {
+            "name": "microsoft-dev",
+            "description": "Plugin for Microsoft 365 development resources.",
+            "source": "./microsoft-dev"
+        }
+    ]
+}

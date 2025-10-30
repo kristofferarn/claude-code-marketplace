@@ -1,0 +1,8 @@
+{
+    "name": "microsoft-dev",
+    "description": "Plugin for Microsoft 365 development resources.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Kristoffer Arntzen"
+    }
+}
