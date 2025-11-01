@@ -1,13 +1,8 @@
 {
     "name": "microsoft-dev",
     "description": "Plugin for Microsoft 365 development resources.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": {
         "name": "Kristoffer Arntzen"
-    },
-    "agents": [
-        "./agents/code-reviewer.md",
-        "./agents/frontend-developer.md",
-        "./agents/ux-designer.md"
-    ]
+    }
 }
