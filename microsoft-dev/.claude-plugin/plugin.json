@@ -5,5 +5,9 @@
     "author": {
         "name": "Kristoffer Arntzen"
     },
-    "agents": "./agents/"
+    "agents": [
+        "./agents/code-reviewer.md",
+        "./agents/frontend-developer.md",
+        "./agents/ux-designer.md"
+    ]
 }
